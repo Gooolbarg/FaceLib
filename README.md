@@ -151,4 +151,4 @@ for idx, bbox in enumerate(boxes):
 
 Reference: [InsightFace](https://github.com/TreB1eN/InsightFace_Pytorch)
 
-Made with Love ❤️
+Made with Love ❤️.
